@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\Data-Science\\Data-Explorer\\PythonApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0FA116-BBCA-4B3E-B9E8-6D1812EF47AA}|PythonApp.pyproj|C:\\Development\\Data-Science\\Data-Explorer\\PythonApp\\PythonApp.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BA0FA116-BBCA-4B3E-B9E8-6D1812EF47AA}|PythonApp.pyproj|solutionrelative:PythonApp.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PythonApp.py",
+              "DocumentMoniker": "C:\\Development\\Data-Science\\Data-Explorer\\PythonApp\\PythonApp.py",
+              "RelativeDocumentMoniker": "PythonApp.py",
+              "ToolTip": "C:\\Development\\Data-Science\\Data-Explorer\\PythonApp\\PythonApp.py",
+              "RelativeToolTip": "PythonApp.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-06T01:57:24.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
